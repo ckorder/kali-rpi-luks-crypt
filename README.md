@@ -1,5 +1,7 @@
 # Full disk encryption for Kali on Raspberry (or other similar architecture) using LUKS
 
+dont take 100% the same but mostly same commands will work, change where need
+
 This HOWTO is dedicated to running [Kali](https://www.kali.org/)
 on [Raspberry](https://www.raspberrypi.org/) (or other similar architecture,
 e.g. [ODROID-C2](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G145457216438)
